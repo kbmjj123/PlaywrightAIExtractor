@@ -17,3 +17,33 @@ Ensure you have Node.js installed. Then:
 git clone https://github.com/kbmjj123/PlaywrightAIExtractor.git
 cd PlaywrightAIExtractor
 npm install
+
+Don't forget to install Playwright browsers:
+
+```bash
+
+npx playwright install
+
+```
+
+## Usage
+
+1. Configure your OpenAI API key in `config.js`.
+
+2. Run the script:
+
+```bash
+
+node index.js
+
+```
+
+3. Follow the on-screen instructions to select nodes and extract data.
+
+## Example
+
+```javascript
+
+// Sample code to demonstrate usage
+
+```
