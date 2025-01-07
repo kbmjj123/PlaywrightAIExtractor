@@ -14,6 +14,6 @@ An open-source tool combining Playwright and AI to extract and structure data fr
 Ensure you have Node.js installed. Then:
 
 ```bash
-git clone https://github.com/yourusername/PlaywrightAIExtractor.git
+git clone https://github.com/kbmjj123/PlaywrightAIExtractor.git
 cd PlaywrightAIExtractor
 npm install
